@@ -1,17 +1,17 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "",
       "select_backup_ads":"",
-      "main_ads_banner": "ca-app-pub-3379099559308238/3150786609",
-      "main_ads_intertitial":"ca-app-pub-3379099559308238/8308029923",
-      "main_ads_natives":"ca-app-pub-3379099559308238/8211541598",
-      "main_ads_rewards":"ca-app-pub-3379099559308238/4660390967",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
       "backup_ads_natives":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "backup_ads_rewards":"",
-      "open_ads_admob":"ca-app-pub-3379099559308238/2034227628",
+      "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
@@ -19,84 +19,22 @@
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "Insurance",
-      "high_paying_keyword_2": "Loans",
-      "high_paying_keyword_3": "Degree",
-      "high_paying_keyword_4": "Lawyer",
-      "high_paying_keyword_5": "Credit",
+      "high_paying_keyword_2": "Gas",
+      "high_paying_keyword_3": "Mortgage",
+      "high_paying_keyword_4": "Attorney",
+      "high_paying_keyword_5": "Loans",
       "status_app": "0",
       "link_redirect": "https://"
     }
   ],
   "Categories": [
-    {
-      "id": 1,
-      "name_category": "New Jeans",
-      "image": "https://i.scdn.co/image/ab67616d00001e029d28fd01859073a3ae6ea209"
-    },
-	{
-      "id": 2,
-      "name_category": "Singles",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9"
-    }
+    
   ],
   
   
   
   "Data": [
-    {
-      "id": 1,
-      "name_category": "New Jeans",
-      "title": "Attention",
-      "image": "https://i.scdn.co/image/ab67616d00001e029d28fd01859073a3ae6ea209",
-      "link_mp3": "https://kangmediadev.com/kangmedia/NewJeans%2fNew%20Jeans%2f01%20Attention.mp3",
-      "lyrics": "<p>You and me nae mami boiji<br /> Hanchameul chyeodabwa<br /> Gakkai dagaga<br /> You see ey<br /> You see, ey ey ey ey<br /> <br /> One, two, three yonggiga saenggyeotji<br /> Imi aneun ne nunchi<br /> Gogaereul dollyeo cheoncheonhi<br /> Yeogi<br /> You see<br /> Yeogi boini<br /> <br /> Looking for attention neoyagesseo<br /> Hwakshilhage naro mandeulgesseo<br /> Stop, eyyy<br /> Drop the question<br /> Drop the, drop the question<br /> Want attention<br /> Wanna want attention<br /> <br /> You give me butterflies you know<br /> Nae mameun ontong paradise<br /> Kkumeseo kkaeweojuji ma<br /> <br /> You got me looking for attention<br /> You got me looking for attention<br /> Gakkeumeun jeongmal<br /> Hetgallijiman<br /> Bunmyeonghan geon<br /> Got me looking for attention<br /> <br /> Neol uyeonhi majuchin cheokhallae<br /> Mot bon cheok jinagallae<br /> You&#39;re so fine<br /> Gotta gotta get to know ya<br /> Nawa nawa georeoga jweo<br /> <br /> Jigeum doraseomyeon<br /> I need ya, need ya, need ya<br /> To look at me back<br /> Hey da deulkyeosseonna<br /> Neol bomyeon hateuga twieonawa<br /> <br /> Nan satangeul chatneun baby (baby)<br /> Nae mameun seolleiji<br /> Eyyy, drop the question<br /> Drop the, drop the question<br /> Want attention<br /> Wanna want attention<br /> <br /> You give me butterflies you know<br /> Nae mameun ontong paradise<br /> Kkumeseo kkaeweojuji ma<br /> <br /> You got me looking for attention<br /> You got me looking for attention<br /> Gakkeumeun jeongmal<br /> Hetgallijiman<br /> Bunmyeonghan geon<br /> Got me looking for attention<br /> You got me looking for attention<br /> (You got me looking for attention yeah)<br /> You got me looking for attention<br /> <br /> Gakkeumeun jeongmal<br /> Hetgallijiman<br /> Bunmyeonghan geon<br /> Got me looking for attention<br /> <br /> A T T E N T I on<br /> Attention is what I want<br /> A T T E N T I on<br /> Attention is what I want<br /> A T T E N T I on<br /> Attention is what I want<br /> A T T E N T I on<br /> You got me looking for attention</p> "
-	},
-	{
-      "id": 2,
-      "name_category": "New Jeans",
-      "title": "Hype Boy",
-      "image": "https://i.scdn.co/image/ab67616d00001e029d28fd01859073a3ae6ea209",
-      "link_mp3": "https://kangmediadev.com/kangmedia/NewJeans%2fNew%20Jeans%2f02%20Hype%20Boy.mp3",
-      "lyrics": "<p>(1,2,3,4)<br /> <br /> Baby, got me looking so crazy<br /> Ppajyeobeorineun daydream<br /> Got me feeling you<br /> Neodo malhaejullae<br /> <br /> Nuga naege mweoradeun<br /> Namdeulgwaneun dalla neon<br /> Maybe you could be the one<br /> Nal mideobwa han beon<br /> I&#39;m not looking for just fun<br /> Maybe I could be the one<br /> <br /> Oh baby<br /> Euiminhadae na lately<br /> Neo eopshineun maeil maeiri yeah<br /> Jaemieopseo eojjeoji<br /> <br /> I just want you<br /> Call my phone right now<br /> I just wanna hear you&#39;re mine<br /> <br /> &#39;Cause I know what you like boy<br /> You&#39;re my chemical hype boy<br /> Nae jinan naldeureun<br /> Nun tteumyeon itneun kkum<br /> Hype boy neoman weonhae<br /> Hype boy naega jeonhae<br /> <br /> And we can go high<br /> Malhaebwa yeah neukkyeobwa mm mm<br /> Take him to the sky<br /> You know I hype you boy<br /> Nuneul gama<br /> Malhaebwa yeah neukkyeobwa mm mm<br /> Take him to the sky<br /> You know I hype you boy<br /> <br /> Jame deullyeogo jame deullyeo haedo<br /> Ne saenggage tto saebyeok se shi uh-oh<br /> Allyeojul geoya<br /> They can&#39;t have you no more<br /> Bwabwa yeogi<br /> Nae ireum sseoittago (Yeah)<br /> <br /> Nuga naege mweoradeun<br /> Namdeulgwaneun dalla neon<br /> Maybe you could be the one<br /> Nal mideobwa han beon<br /> I&#39;m not looking for just fun<br /> Maybe I could be the one<br /> <br /> Oh baby<br /> Euiminhadae na lately<br /> Neo eopshineun maeil maeili yeah<br /> Jaemieopseo eojjeoji<br /> <br /> I just want you<br /> Call my phone right now<br /> I just wanna hear you&#39;re mine<br /> <br /> &#39;Cause I know what you like boy<br /> You&#39;re my chemical hype boy<br /> Nae jinannaldeureun<br /> Nun tteumyeon itneun kkum<br /> Hype boy neoman weonhae<br /> Hype boy naega jeonhae<br /> <br /> And we can go high<br /> Malhaebwa yeah<br /> Neukkyeobwa mm mm<br /> Take him to the sky<br /> You know I hype you boy<br /> Nuneul gama<br /> Malhaebwa yeah<br /> Neukkyeobwa mm mm<br /> Take him to the sky<br /> You know I hype you boy</p> "
-	},
-	{
-      "id": 3,
-      "name_category": "New Jeans",
-      "title": "Cookie",
-      "image": "https://i.scdn.co/image/ab67616d00001e029d28fd01859073a3ae6ea209",
-      "link_mp3": "https://kangmediadev.com/kangmedia/NewJeans%2fNew%20Jeans%2f03%20Cookie.mp3",
-      "lyrics": "<p>Naega mandeun kuki<br /> Neoreul wihae guweotji<br /> But you know that it ain&#39;t for free, yeah<br /> <br /> Naega mandeun kuki<br /> Neomu budeureouni<br /> Jakkuman tteooreuni<br /> <br /> Neol choco-chipeuro<br /> Sprinklero<br /> Ipmat beorige mandeulgo shipeo<br /> Sumgigo itjiman neol deo bogo shipeo<br /> <br /> If you want it<br /> You can get it<br /> If you want it<br /> Ne moksorireul tto deullyeojweo boy<br /> <br /> Shiksaneun eopseo baegopado<br /> Eummyoneun eopseo mogmallado<br /> Dalkomhan manman dijeoteuman man<br /> Weonhage dwel geo aljana<br /> <br /> Shiksaneun eopseo baegopado<br /> Eummyoneun eopseo mogmallado<br /> Dalkomhan manman dijeoteuman man<br /> Weonhage dwel geo aljana<br /> <br /> Naega mandeun kuki<br /> Neoegeneun dogiji<br /> Ne maeumsogeul nogiji<br /> So good, yeah<br /> <br /> Looking at my cookie<br /> Yeokshi hyanggibuteo dareuni (Taste it)<br /> Hanibeun mojarani<br /> <br /> Neol choco-chipeuro<br /> Sprinklero<br /> Jeongshin mot charige mandeulgo shipeo<br /> Sumgigo itjiman neol deo bogo shipeo<br /> <br /> If you want it<br /> You can get it<br /> If you want it<br /> Ne moksorireul tto deullyeojweo boy<br /> <br /> Shiksaneun eopseo baegopado<br /> Eummyoneun eopseo mogmallado<br /> Dalkomhan manman dijeoteuman man<br /> Weonhage dwel geo aljana<br /> <br /> Shiksaneun eopseo baegopado<br /> Eummyoneun eopseo mogmallado<br /> Dalkomhan manman dijeoteuman man<br /> Weonhage dwel geo aljana<br /> <br /> Bet you know<br /> Bet you know<br /> Bet you know I<br /> Reshipin eopseo ttan deseoneun mot chaja<br /> <br /> Take it<br /> Don&#39;t break it<br /> I wanna see you taste it<br /> Sugar, got sugar<br /> Nan jaeryo an akkiji<br /> <br /> Bet you know<br /> Bet you know<br /> Bet you know I<br /> Ne daieoteureul mangchigo shipeo na<br /> <br /> Take it<br /> Don&#39;t break it<br /> I wanna see you taste it<br /> Sugar, got sugar<br /> Bet you want some<br /> <br /> Shiksaneun eopseo baegopado<br /> Eummyoneun eopseo mogmallado<br /> Dalkomhan manman dijeoteuman man<br /> Weonhage dwel geo aljana<br /> <br /> Shiksaneun eopseo baegopado<br /> Eummyoneun eopseo mogmallado<br /> Dalkomhan manman dijeoteuman man<br /> Weonhage dwel geo aljana<br /> <br /> Yeah yo<br /> Yeah yo<br /> Mm mm<br /> Yeah yo<br /> Yeah yo<br /> Mm mm<br /> <br /> Naega mandeun kuki<br /> Come and take a lookie<br /> Uri jibeman itji nolleo wa<br /> <br /> Eolmadeunji gupji<br /> Geureonde neo chungchi<br /> Saenggyeodo nan molla<br /> <br /> Naega mandeun kuki<br /> Come and take a lookie<br /> Uri jibeman itji nolleo wa<br /> <br /> Eolmadeunji gupji<br /> Geureonde neo chungchi<br /> Saenggyeodo nan molla</p> "
-	},
-	{
-      "id": 4,
-      "name_category": "New Jeans",
-      "title": "Hurt",
-      "image": "https://i.scdn.co/image/ab67616d00001e029d28fd01859073a3ae6ea209",
-      "link_mp3": "https://kangmediadev.com/kangmedia/NewJeans%2fNew%20Jeans%2f04%20Hurt.mp3",
-      "lyrics": "<p>Bogo shibeun saenggage<br /> Deureogan uri change<br /> Naneun mareul geoneunde<br /> Bonaejineun aneullae<br /> Neurin hanmadiboda<br /> Joyonghami deo joa<br /> Gidarigo itjiman<br /> Maeil ireon geon anya<br /> <br /> Nan jaemieopseo geim gateun geon<br /> Da piryo eopseo<br /> Amuri joado neol no<br /> Mallomaneun jigyeoungeol<br /> Meonjeo waseo boyeojweo<br /> Meonjeo waseo boyeojweo<br /> &#39;Cause I&#39;m not gonna be the one to get hurt<br /> <br /> Hurt (nah, nah)<br /> I&#39;m not gonna be the one to get hurt<br /> Hurt (nah, nah)<br /> I&#39;m not gonna be the one to get hurt<br /> Hurt (oh, oh, ooh)<br /> I&#39;m not gonna be the one to get hurt<br /> (Oh, oh, ooh)<br /> I&#39;m not gonna be the one to get hurt<br /> (Oh, oh, ooh)<br /> I&#39;m not gonna be the one to get hurt<br /> (Oh, oh, ooh)<br /> <br /> Maeil jamdeulgi jeone<br /> Geurigo tto achime<br /> Jwigo inneun nae sonen<br /> Neoeomneun hwamyeoninde<br /> Neurin hanmadiboda<br /> Joyonghami deo joa<br /> Gidarigo itjiman<br /> Maeil ireon geon anya<br /> <br /> Nan jaemieopseo geim gateun geon<br /> Da piryoeopseo<br /> Amuri joado neol no<br /> Mallomaneun jigyeoungeol<br /> Meonjeo waseo boyeojweo<br /> Meonjeo waseo boyeojweo<br /> &#39;Cause I&#39;m not gonna be the one to get hurt<br /> <br /> Hurt (nah, nah)<br /> I&#39;m not gonna be the one to get hurt<br /> Hurt (nah, nah)<br /> I&#39;m not gonna be the one to get hurt<br /> Hurt (oh, oh, ooh)<br /> Hurt (oh, oh, ooh)<br /> <br /> Yeogikkajiya<br /> Nega wainneun goseun<br /> Neomu meoreosseo<br /> I&#39;m not gonna be the one to get hurt<br /> <br /> Yeogikkajiya<br /> Nega wainneun goseun<br /> Neomu meoreosseo<br /> I&#39;m not gonna be the one to get hurt</p> "
-	},
-	
-	
-	
-	
-	
-	{
-      "id": 1000,
-      "name_category": "Singles",
-      "title": "OMG",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9",
-      "link_mp3": "https://kangmediadev.com/kangmedia/NewJeans%2fSingles%2f01%20OMG.mp3",
-      "lyrics": "<p>I noraeneun it&#39;s about you baby<br /> Only you<br /> You you you<br /> You you you you<br /> <br /> Naega himdeul ttae<br /> Ul geot gateul ttae<br /> Giundo ijen<br /> Naji aneul ttae<br /> It&#39;s you nal geokjeonghane<br /> It&#39;s you nal utgehane<br /> Mal an haedo dwae<br /> Boy what do you say<br /> <br /> (They keep on asking me, &quot;who is he?&quot;)<br /> Meollideun eonjedeunji dallyeowa<br /> (They keep on asking me, &quot;who is he?&quot;)<br /> Bappeun cheokdo eopshi neon natana<br /> (They keep on asking me, &quot;who is he?&quot;)<br /> Ige mari dweni nan mureobwa<br /> (They keep on asking me, &quot;who is he?&quot;)<br /> Neoneun marya<br /> He&#39;s the one that&#39;s living in my system baby<br /> <br /> Oh my oh my God<br /> Yesanghaesseo na<br /> I was really hoping<br /> That he will come through<br /> Oh my oh my God<br /> Dan neoppuniya<br /> Asking all the time about what I should do<br /> <br /> No I can never let him go<br /> Neoman saenggangna 24<br /> Nan haengunaya jeongmallo I know, I know<br /> Neol algi jeonkkajineun na<br /> Uimi eopseosseo jeonbu da<br /> Nae mami kkeuchi eomneun geol I know, I know<br /> I&#39;m going crazy right?<br /> <br /> Eodiseodeun<br /> Myeot beonideun<br /> There ain&#39;t nothing else that<br /> I would hold on to<br /> I hear his voice<br /> Through all the noise<br /> Jamshirado nae son nochi ma no, no<br /> <br /> Geokjeong eopjana<br /> &#39;Cause I got someone<br /> Honjarado gwaenchana<br /> &#39;Cause I love someone<br /> <br /> (They keep on asking me, &quot;who is he?&quot;)<br /> Meollideun eonjedeunji dallyeowa<br /> (They keep on asking me, &quot;who is he?&quot;)<br /> Bappeun cheokdo eopshi neon natana<br /> (They keep on asking me, &quot;who is he?&quot;)<br /> Ige mari dweni nan mureobwa<br /> (They keep on asking me, &quot;who is he?&quot;)<br /> Neoneun marya<br /> He&#39;s the one that&#39;s living in my system baby<br /> <br /> Oh my oh my God<br /> Yesanghaesseo na<br /> I was really hoping<br /> That he will come through<br /> Oh my oh my God<br /> Dan neoppuniya<br /> Asking all the time about what I should do<br /> <br /> No I can never let him go<br /> Neoman saenggangna 24<br /> Nan haengunaya jeongmallo I know, I know<br /> Neol algi jeonkkajineun na<br /> Uimi eopseosseo jeonbu da<br /> Nae mami kkeuchi eomneun geol I know, I know<br /> <br /> (He&#39;s the one that&#39;s living in my system baby)<br /> (I&#39;m going crazy right? baby)<br /> (I&#39;m going crazy right? baby)<br /> <br /> Neowa na<br /> My heart is glowing<br /> It&#39;s glowing up<br /> Neorangman isseumyeon museoul ge eopseo<br /> Gadeuk meweojin, da meweojin (bulkeojin)<br /> My heart is glowing, it&#39;d be glowing<br /> &#39;Cause he<br /> <br /> Oh my oh my God<br /> Yesanghaesseo na<br /> I was really hoping<br /> That he will come through<br /> Oh my oh my God<br /> Dan neoppuniya<br /> Asking all the time about what I should do<br /> No I can never let him go<br /> He&#39;s right there for me 24<br /> Nan haengunaya jeongmallo I know, I know<br /> Neol algi jeonkkajineun na<br /> Uimi eopseosseo jeonbu da<br /> Eotteokhae<br /> <br /> My heart is glowing, it&#39;s glowing<br /> My heart is glowing up<br /> So I can&#39;t sleep at night</p> "
-	},
-	{
-      "id": 1001,
-      "name_category": "Singles",
-      "title": "Ditto",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9",
-      "link_mp3": "https://kangmediadev.com/kangmedia/NewJeans%2fSingles%2f02%20Ditto.mp3",
-      "lyrics": "<p>Woo woo woo woo ooh<br /> Woo woo woo woo<br /> Stay in the middle<br /> Like you a little<br /> Don&#39;t want no riddle<br /> Malhaejwo say it back<br /> Oh say it ditto<br /> Achimeun neomu meoreo<br /> So say it ditto<br /> <br /> Huljjeok keobeoryeosseo<br /> Hamkkehan gieokcheoreom<br /> Neol boneun nae maeumeun<br /> Eoneusae yeoreum jina gaeul<br /> Gidaryeotji all this time<br /> Do you want somebody<br /> Like I want somebody<br /> Nal bogo useotjiman<br /> Do you think about me now yeah<br /> All the time yeah<br /> All the time<br /> <br /> I got no time to lose<br /> Nae gireotdeon haru<br /> Nan bogo sipeo<br /> Ra-ta-ta-ta ullin simjang (Ra-ta-ta-ta)<br /> I got nothing to lose<br /> Neol joahandago wooah wooah wooah<br /> Ra-ta-ta-ta ullin simjang (Ra-ta-ta-ta)<br /> But I don&#39;t want to<br /> <br /> Stay in the middle<br /> Like you a little<br /> Don&#39;t want no riddle<br /> Malhaejwo say it back<br /> Oh say it ditto<br /> Achimeun neomu meoreo<br /> So say it ditto<br /> I don&#39;t want to<br /> Walk in this miro<br /> Da aneun geon anieodo<br /> Baradeon daero<br /> Malhaejwo Say it back<br /> Oh say it ditto<br /> I want you so, want you<br /> So say it ditto<br /> <br /> Not just anybody<br /> Neoreul sangsanghaetji<br /> Hangsang daaitdeon<br /> Cheoeum neukkim geudaero nan<br /> Gidaryeotji all this time<br /> <br /> I got nothing to lose<br /> Neol joahandago wooah wooah wooah<br /> Ra-ta-ta-ta ullin simjang (Ra-ta-ta-ta)<br /> But I don&#39;t want to<br /> <br /> Stay in the middle<br /> Like you a little<br /> Don&#39;t want no riddle<br /> Malhaejwo say it back<br /> Oh say it ditto<br /> Achimeun neomu meoreo<br /> So say it ditto<br /> I don&#39;t want to<br /> Walk in this miro<br /> Da aneun geon anieodo<br /> Baradeon daero<br /> Malhaejwo Say it back<br /> Oh say it ditto<br /> I want you so, want you<br /> So say it ditto<br /> <br /> Woo woo woo woo ooh<br /> Woo woo woo woo</p> "
-	}
-	
+   
 	
 	
   ]
