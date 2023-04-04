@@ -1,17 +1,17 @@
 {
   "Ads": [
     {
-      "select_main_ads": "",
+      "select_main_ads": "ADMOB",
       "select_backup_ads":"",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "main_ads_natives":"",
-      "main_ads_rewards":"",
+      "main_ads_banner": "ca-app-pub-3379099559308238/9884550065",
+      "main_ads_intertitial":"ca-app-pub-3379099559308238/8571468391",
+      "main_ads_natives":"ca-app-pub-3379099559308238/9278330819",
+      "main_ads_rewards":"ca-app-pub-3379099559308238/5039702900",
       "backup_ads_natives":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "backup_ads_rewards":"",
-      "open_ads_admob":"",
+      "open_ads_admob":"ca-app-pub-3379099559308238/5945305057",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
@@ -19,19 +19,165 @@
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "Insurance",
-      "high_paying_keyword_2": "Gas",
-      "high_paying_keyword_3": "Mortgage",
-      "high_paying_keyword_4": "Attorney",
-      "high_paying_keyword_5": "Loans",
+      "high_paying_keyword_2": "Loans",
+      "high_paying_keyword_3": "Degree",
+      "high_paying_keyword_4": "Lawyer",
+      "high_paying_keyword_5": "Credit",
       "status_app": "0",
       "link_redirect": "https://"
     }
   ],
   "Categories": [
-   
+    {
+      "id": 1,
+      "name_category": "FEARLESS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555"
+    },
+	{
+      "id": 2,
+      "name_category": "ANTIFRAGILE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be"
+    },
+	
+	
+	{
+      "id": 100,
+      "name_category": "Singles",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9"
+    }
   ],
   "Data": [
-   
+    {
+      "id": 1,
+      "name_category": "FEARLESS",
+      "title": "The World Is My Oyster",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555",
+      "link_mp3": "https://kangmediadev.com/kangmedia/Le%20Sserafim%2fFEARLESS%2f01%20The%20World%20Is%20My%20Oyster_1.mp3",
+      "lyrics": "<p>The world is imperfect<br /> Kono sekai ni manzoku dekinai<br /> Sesangeun nareul pyeonggahae<br /> <br /> The world brings out my flaws<br /> Sesangeun nareul bakkuryeo haji<br /> <br /> Geureotamyeon<br /> <br /> Watashi wa tsuyokunaritai<br /> I want to take up the challenge<br /> Naneun kkeokkiji ana<br /> <br /> I am fearless<br /> <br /> Naneun<br /> I<br /> Watashi wa<br /> <br /> Sekai o teniireta i<br /> The world is my oyster</p> "
+	},
+	{
+      "id": 2,
+      "name_category": "FEARLESS",
+      "title": "FEARLESS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555",
+      "link_mp3": "https://kangmediadev.com/kangmedia/Le%20Sserafim%2fFEARLESS%2f02%20FEARLESS.mp3",
+      "lyrics": "<p>Bam ba ba ba ba bam ba ba ba ba bam<br /> Ba ba ba ba bam<br /> Bam ba ba ba ba bam ba ba ba ba bam<br /> Ba ba ba ba bam<br /> <br /> Jeil nopeun gose nan dahkil weonhae<br /> Neukkyeosseo nae answer<br /> Nae hyeolgwan soge nalttwineun new wave<br /> Nae geodaehan passion<br /> Gwanshim eopseo gwageoe moduga algo inneun<br /> Geu teureobeule huh<br /> I&#39;m fearless a new bitch new crazy<br /> Ollaga next one<br /> <br /> Balpajweo highway highway<br /> Meotjin gyeolmale dake<br /> Nae hyungjimdo naye ilburamyeon<br /> Geobi nan eopji eopji<br /> <br /> What you lookin&#39; at<br /> What you what you lookin&#39; at<br /> What you lookin&#39; at<br /> What you what you lookin&#39; at<br /> What you lookin&#39; at<br /> What you what you lookin&#39; at<br /> Mmmm I&#39;m fearless huh<br /> <br /> You should get away<br /> Get a get a get away<br /> Dachiji anke dachi dachiji anke<br /> You should get away<br /> Get a get a get away<br /> Mmmm I&#39;m fearless huh<br /> <br /> Bam ba ba ba ba bam ba ba ba ba bam<br /> Ba ba ba ba bam<br /> Bam ba ba ba ba bam ba ba ba ba bam<br /> Ba ba ba ba bam<br /> <br /> Yokshimeul sumgiraneun ne maldeureun isanghae<br /> Gyeomsonhan yeongi gateun geon deo isang an hae<br /> Gajyeowa forever win naege ay<br /> Gaseumpage sutja il naege ay<br /> Nae miteuro joarin segye ay<br /> Take the world break it down break you<br /> Down down<br /> <br /> Balpajweo highway highway<br /> Meotjin gyeolmale dake<br /> Nae hyungjimdo naye ilburamyeon<br /> Geobi nan eopji eopji<br /> <br /> What you lookin&#39; at<br /> What you what you lookin&#39; at<br /> What you lookin&#39; at<br /> What you what you lookin&#39; at<br /> What you lookin&#39; at<br /> What you what you lookin&#39; at<br /> Mmmm I&#39;m fearless huh<br /> <br /> You should get away<br /> Get a get a get away<br /> Dachiji anke dachi dachiji anke<br /> You should get away<br /> Get a get a get away<br /> Mmmm I&#39;m fearless huh<br /> <br /> Bam ba ba ba ba bam ba ba ba ba bam<br /> Ba ba ba ba bam<br /> Bam ba ba ba ba bam ba ba ba ba<br /> Mmmm I&#39;m fearless huh<br /> <br /> Deoneun eopseo paebae<br /> Junbidwen nae payback<br /> Bring it dangjang naege<br /> Mmmm I&#39;m fearless huh<br /> <br /> What you lookin&#39; at<br /> What you what you lookin&#39; at<br /> What you lookin&#39; at<br /> What you what you lookin&#39; at<br /> What you lookin&#39; at<br /> What you what you lookin&#39; at<br /> Mmmm I&#39;m fearless huh<br /> <br /> You should get away<br /> Get a get a get away<br /> Dachiji anke dachi dachiji anke<br /> You should get away<br /> Get a get a get away<br /> Mmmm I&#39;m fearless huh</p> "
+	},
+	{
+      "id": 3,
+      "name_category": "FEARLESS",
+      "title": "Blue Flame",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555",
+      "link_mp3": "https://kangmediadev.com/kangmedia/Le%20Sserafim%2fFEARLESS%2f03%20Blue%20Flame.mp3",
+      "lyrics": "<p>I&#39;ll like it I&#39;ll like it like that<br /> <br /> I&#39;m feeling something nan hollin deushi<br /> Adeukhi eojireoun nunbushim<br /> Angaessogeuro nal ikkeuneun him<br /> Even bulkkochboda tteugeoun blue<br /> <br /> Jemeottaero chumeul chuda sarajigo<br /> I&#39;ll like it I&#39;ll like it like that<br /> Eojireopdeon pureunbicheun hwaryeohaejyeo<br /> <br /> Son deilmankeum tteugeopdorok taolla deo<br /> Gyeonggyereul neomeo pyeolchyeojineun unknown<br /> Jeo kkeutkkaji<br /> Muryohaetteon nari jebeop areumdaweo<br /> Taoreun isang meomchul suneun eopseo my desire<br /> <br /> Will-O&#39; The-Wisp babe<br /> Oh baby It&#39;s blue flame<br /> Will-O&#39; The-Wisp babe<br /> That that that is faction<br /> <br /> Will-O&#39; The-Wisp babe<br /> Oh baby It&#39;s blue flame<br /> Will-O&#39; The-Wisp babe<br /> That that that is faction<br /> <br /> Unknown duryeoume gamchweo itteon beili<br /> I eodumi shiyareul beoseona glow<br /> Jeogi neomeoe mweoga itteunji<br /> Pureun hogishimil ppuningeol<br /> <br /> Jemeottaero chumeul chuda sarajigo<br /> I&#39;ll like it I&#39;ll like it like that<br /> Eojireopdeon pureunbicheun hwaryeohaejyeo<br /> <br /> Son deilmankeum tteugeopdorok taolla deo<br /> Gyeonggyereul neomeo pyeolchyeojineun unknown<br /> Jeo kkeutkkaji<br /> Muryohaetteon nari jebeop areumdaweo<br /> Taoreun isang meomchul suneun eopseo my desire<br /> <br /> Will-O&#39; The-Wisp babe<br /> Oh baby It&#39;s blue flame<br /> Will-O&#39; The-Wisp babe<br /> That that that is faction<br /> <br /> Will-O&#39; The-Wisp babe<br /> Oh baby It&#39;s blue flame<br /> Will-O&#39; The-Wisp babe<br /> That that that is faction<br /> <br /> Muneojineun limit gibuneun so thrilling<br /> Gipi nareul pagodeureo<br /> Cheoeum bon sunganbuteo ikkeullin<br /> Omyohan saege bit sok<br /> Gidarin deut now I&#39;m burning<br /> Nunbushige shine<br /> <br /> Son deilmankeum tteugeopdorok taolla deo<br /> Gyeonggyereul neomeo pyeolchyeojineun unknown<br /> Jeo kkeutkkaji<br /> Muryohaetteon nari jebeop areumdaweo<br /> Taoreun isang meomchul suneun eopseo my desire<br /> <br /> Will-O&#39; The-Wisp babe<br /> Oh baby It&#39;s blue flame<br /> Will-O&#39; The-Wisp babe<br /> That that that is faction<br /> <br /> Will-O&#39; The-Wisp babe<br /> Oh baby It&#39;s blue flame<br /> Will-O&#39; The-Wisp babe<br /> That that that is faction</p> "
+	},
+	{
+      "id": 4,
+      "name_category": "FEARLESS",
+      "title": "The Great Mermaid",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555",
+      "link_mp3": "https://kangmediadev.com/kangmedia/Le%20Sserafim%2fFEARLESS%2f04%20The%20Great%20Mermaid.mp3",
+      "lyrics": "<p>Wish never cost geuge mweorago haedo<br /> Hanal wihaeseon hanal pogiharago<br /> Areumdaun moksori ilgop bit kkorikkaji jeonbu<br /> Jeonbu naraseo I don&#39;t wanna sacrifice<br /> <br /> I&#39;m living my life weonhaneun geon da gajil geoya<br /> Geuraedo nal mulgeopumeuro mandeuljin mothae<br /> Won&#39;t give up won&#39;t give up<br /> Pogihaneun geon nothing<br /> Don&#39;t mess with me shwipda shipeonni?<br /> I don&#39;t give you what you need yeah<br /> <br /> I don&#39;t give a shit! No love no golden prince<br /> Geureon dwiteullin sarang naneun piryo eopseo<br /> Love story yo<br /> Taeweobeoryeo lock lock and load<br /> I just want it all! dan naye stylero<br /> Naege matchweojin sarang hisaeng hana eopshi<br /> Love story yo<br /> Never give up! Lock lock and load<br /> <br /> Nanana na nanana nanana na nanana<br /> Nanana na nanana<br /> Dive into the ocean<br /> Nanana na nanana nanana na nanana<br /> Nanana na nanana<br /> Dive into the ocean<br /> <br /> Moksoril beorirani crazy<br /> Sarajil su ittani wae irae<br /> Mari mal gajjiga ana liar<br /> Manyeoga manyeo hamyeon deudjima<br /> <br /> Charari naege naenwa ocean<br /> Sesangeul nae badaro deopchyeo<br /> Jedong eopshi keojyeoganeun kkum<br /> Pogiman an hamyeon gyeolgugen truth<br /> <br /> I&#39;m living my life weonhaneun geon da gajil geoya<br /> Geuraedo nal mulgeopumeuro mandeuljin mothae<br /> Won&#39;t give up won&#39;t give up<br /> Pogihaneun geon nothing<br /> Don&#39;t mess with me shwipda shipeonni?<br /> I don&#39;t give you what you need yeah<br /> <br /> I don&#39;t give a shit! No love no golden prince<br /> Geureon dwiteullin sarang naneun piryo eopseo<br /> Love story yo<br /> Taeweobeoryeo lock lock and load<br /> I just want it all! dan naye stylero<br /> Naege matchweojin sarang hisaeng hana eopshi<br /> Love story yo<br /> Never give up! Lock lock and load<br /> <br /> Nanana na nanana nanana na nanana<br /> Nanana na nanana<br /> Dive into the ocean<br /> Nanana na nanana nanana na nanana<br /> Nanana na nanana<br /> Dive into the ocean</p> "
+	},
+	{
+      "id": 5,
+      "name_category": "FEARLESS",
+      "title": "Sour Grapes",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555",
+      "link_mp3": "https://kangmediadev.com/kangmedia/Le%20Sserafim%2fFEARLESS%2f05%20Sour%20Grapes.mp3",
+      "lyrics": "<p>Ttu-rru-rru-rru-rru-ttu-ttu<br /> Yeah<br /> <br /> Oh nado moreuge<br /> Dalkomhae nan chimi goyeo igeon sarang maja<br /> Neol hancham noryeobwa<br /> Nae sone ttuk tteoreojigil gidarigo isseo<br /> Gatgo sipeo sonswipge<br /> Nangmanjeogin fairy tale<br /> Sadarireul oreul ttae<br /> Du bararae nan ajjilhae<br /> <br /> Heona jom deo gilge pareul ppeodeodo<br /> Dachi ana dwikkumchireul deureodo<br /> Domujiga sone jwil su eomneun love<br /> Oh, ireodaga naman dachigesseo<br /> Yeah, you&#39;ll hurt me<br /> <br /> Pureut ssapssareumhae I don&#39;t wanna taste<br /> Mwo geuri dalkomhajin aneul geot gatae<br /> Seorigeun gamjeongdeuri I just feel afraid<br /> I&#39;ll never bite, I&#39;ll never bite the pain<br /> Sour nunmul nage sikeumhan mat<br /> Sour geureon ge manyak sarangimyeon<br /> Matbogo sipji ana I just feel afraid<br /> Love is sour, love is sour grapes<br /> <br /> Nuni seuchimyeon<br /> Gakkeumssigeun mam kkeuchi jom tteolligido haesseo<br /> Cheoeum neukkyeoboneun heart<br /> Han ip jeongdo kkaemundamyeon eotteolkkado haesseo<br /> Bulgeojineun yeolmaee<br /> Siseoneul da ppaetgin chae<br /> Gaji kkeute dallin grapes<br /> Daldalhalkka sangsanghae<br /> <br /> Heona han georeumssik georil jopyeodo<br /> Neoui soneul jabeul suneun eomneungeol<br /> Sadari jeo neomeo wie noin love<br /> Oh, naman gwaenhi sangcheobatgin sileo<br /> Yeah, you&#39;ll hurt me<br /> <br /> Pureut ssapssareumhae I don&#39;t wanna taste<br /> Mwo geuri dalkomhajin aneul geot gatae<br /> Seorigeun gamjeongdeuri I just feel afraid<br /> I&#39;ll never bite, I&#39;ll never bite the pain<br /> Sour nunmul nage sikeumhan mat<br /> Sour geureon ge manyak sarangimyeon<br /> Matbogo sipji ana I just feel afraid<br /> Love is sour, love is sour grapes<br /> <br /> Chakgageun ma<br /> Ttaki neol joahan jeok eopseunikka<br /> Jogeumdo aswipjiga antanikka<br /> Naega nal songnyeo all day, all night, yeah<br /> <br /> Ajik eoseolpeuge ikji aneun grapes<br /> Amado naegen ttaega anin geot gatae<br /> Pureuthage ajik seorigeun ne scent<br /> I&#39;m feeling scared, I&#39;m feeling scared, yeah<br /> Sour nunmul nage sikeumhan mat<br /> Sour geureon ge manyak sarangimyeon<br /> Matbogo sipji ana I just feel afraid<br /> Love is sour, love is sour grapes</p> "
+	},
+	
+	
+	
+	
+	
+	
+	{
+      "id": 6,
+      "name_category": "ANTIFRAGILE",
+      "title": "The Hydra",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be",
+      "link_mp3": "https://kangmediadev.com/kangmedia/Le%20Sserafim%2fANTIFRAGILE%2f01%20The%20Hydra.mp3",
+      "lyrics": "<p>Do you think I&#39;m fragile?<br /> 私の首を切ってみて<br /> <br /> Eodi hanbeon nal buswobwa<br /> Do you think I&#39;m bad?<br /> <br /> Geureomyeon nal churaksikyeobwa<br /> <br /> 私を燃やしてみて<br /> 私を黒い海に投げてみて<br /> <br /> Myeot beonigo dasi<br /> Again and again<br /> もう一度もう一度<br /> <br /> I&#39;m antifragile<br /> I<br /> 私は<br /> Naneun<br /> I&#39;m antifragile<br /> Dasi sarana<br /> <br /> Churakamyeo chuneun chum<br /> ミスや失敗を隠さない<br /> <br /> I am not afraid of storms, for I am learning how to sail my ship<br /> <br /> Naneun jeomjeom deo deo deo ganghaejyeo<br /> <br /> I&#39;m antifragile<br /> I&#39;m antifragile<br /> <br /> I&#39;m antifragile<br /> I&#39;m antifragile</p> "
+	},
+	{
+      "id": 7,
+      "name_category": "ANTIFRAGILE",
+      "title": "ANTIFRAGILE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be",
+      "link_mp3": "https://kangmediadev.com/kangmedia/Le%20Sserafim%2fANTIFRAGILE%2f02%20ANTIFRAGILE.mp3",
+      "lyrics": "<p>Anti ti ti ti fragile fragile<br /> Anti ti ti ti fragile<br /> Anti ti ti ti fragile fragile<br /> Antifragile antifragile<br /> <br /> Gashibatgil wiro Riding<br /> You made me boost up<br /> Geojiseuro gadeuk chan Party<br /> Garyeopjido ana<br /> Nae dwie maldeuri mana<br /> Nado cheom deunneun nae Rival<br /> Modu gidohae nae Falling<br /> Geu son wiro I&#39;mma jump in<br /> Yes gimme that<br /> <br /> Georeobwa wieom Like a lion<br /> Nunppichen geodaehan Desire<br /> Deo bueo Gasoline on fire<br /> Bulgil soge dashi nara Rising<br /> <br /> Itji ma naega dugo on Toe shoes<br /> Museun mari deo piryohae<br /> Mushi ma naega georeoon keorieo<br /> I go to ride till I die die<br /> <br /> Deo nopi gajulge<br /> Naega baratteon segye jel wie<br /> Tteoreojeodo dwae I&#39;m<br /> Antifragile antifragile<br /> Nan jigeum On my way<br /> Gattabeoryeo jweo neoye Fairy tale<br /> Now you know my name, I&#39;m<br /> Antifragile antifragile<br /> <br /> Anti ti ti ti fragile fragile<br /> Anti ti ti ti fragile<br /> Anti ti ti ti fragile fragile<br /> Antifragile antifragile<br /> <br /> &quot;Lovey lovey lovey dovey dovey dovey&quot;<br /> Meottaero jeonghane naran aee daehae<br /> I don&#39;t know what to say I can&#39;t feel it<br /> <br /> Tteugeoun gwanshimeun hwanyeong<br /> Gwiyeoun jiltuneun Go ahead<br /> Jul dallin inhyeongeun No thanks<br /> Nae mirael sseul naye norae<br /> Yes gimme that<br /> <br /> Georeobwa wieom Like a lion<br /> Nunppichen geodaehan Desire<br /> Deo bueo Gasoline on fire<br /> Bulgil soge dashi nara Rising<br /> <br /> Itji ma naega dugo on Toe shoes<br /> Museun mari deo piryohae<br /> Mushi ma naega georeoon keorieo<br /> I go to ride till I die die<br /> <br /> Deo nopi gajulge<br /> Naega baratteon segye jel wie<br /> Tteoreojeodo dwae I&#39;m<br /> Antifragile antifragile<br /> Nan jigeum On my way<br /> Gattabeoryeo jweo neoye Fairy tale<br /> Now you know my name, I&#39;m<br /> Antifragile antifragile<br /> <br /> Anti ti ti ti fragile fragile<br /> Anti ti ti ti fragile<br /> Anti ti ti ti fragile fragile<br /> Antifragile antifragile<br /> <br /> We can break it baby<br /> Rock it twist it lock it baby<br /> All I know is you can&#39;t chain me<br /> &#39;Cause I&#39;m gonna break out<br /> Gonna gonna break out out<br /> We can break it baby<br /> Rock it twist it lock it baby<br /> All I know is you can&#39;t chain me<br /> &#39;Cause I&#39;m gonna break out<br /> Gonna gonna break out out<br /> <br /> Deo nopi gajulge<br /> Naega baratteon segye jel wie<br /> Tteoreojeodo dwae I&#39;m<br /> Antifragile antifragile<br /> Nan jigeum On my way<br /> Gattabeoryeo jweo neoye Fairy tale<br /> Now you know my name, I&#39;m<br /> Antifragile antifragile<br /> <br /> Anti ti ti ti fragile fragile<br /> Anti ti ti ti fragile<br /> Anti ti ti ti fragile fragile<br /> Antifragile antifragile</p> "
+	},
+	{
+      "id": 8,
+      "name_category": "ANTIFRAGILE",
+      "title": "Impurities",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be",
+      "link_mp3": "https://kangmediadev.com/kangmedia/Le%20Sserafim%2fANTIFRAGILE%2f03%20Impurities.mp3",
+      "lyrics": "<p>Can you see huh?<br /> <br /> Tteoreojin han bangul drip<br /> Tumyeonghan nae ane seokkyeo deulji<br /> Amureochi aneun deut keep on moving<br /> Impurities show you my impurities<br /> <br /> Yoksimnae deo like a witch<br /> Show you real me geombulgeojineun bit<br /> Gangnyeolhage banjjangnyeo glittery things<br /> Impurities show you my impurities<br /> <br /> Cheoncheonhi balbaga gyeonggyeseoneul neomeoga<br /> Geomge hwipssain yongmangdeurui deep sign<br /> Gasibatgil wiro sangcheotuseongiro ga<br /> So natural invincible<br /> <br /> Ooh yeah don&#39;t wanna hide<br /> Ooh yeah gwagamhi fight<br /> Sangcheoro gadeukan dandanhan bultumyeongham<br /> So natural areumdawo<br /> <br /> I can see seonmyeonghaejineun desire<br /> So here&#39;s my key<br /> Gwaenchana no matter what you say<br /> Can you see huh?<br /> <br /> Tteoreojin han bangul drip<br /> Tumyeonghan nae ane seokkyeo deulji<br /> Amureochi aneun deut keep on moving<br /> Impurities show you my impurities<br /> <br /> Yoksimnae deo like a witch<br /> Show you real me geombulgeojineun bit<br /> Gangnyeolhage banjjangnyeo glittery things<br /> Impurities show you my impurities<br /> <br /> Goodness hogeun badness<br /> Igeon magic anim tragic<br /> Dachindaedo dasi try it oh<br /> <br /> Simjangui bitkkareun machi crimson<br /> Taoreul deuthan nae anui passion<br /> Moheomui jeunggeoneun machi necklace<br /> Nareul deo binnage hae<br /> <br /> I can see pyeolchyeojin destinations<br /> So here&#39;s my key<br /> Gwaenchana no matter what you say<br /> Can you see huh?<br /> <br /> Tteoreojin han bangul drip<br /> Tumyeonghan nae ane seokkyeo deulji<br /> Amureochi aneun deut keep on moving<br /> Impurities show you my impurities<br /> <br /> Yoksimnae deo like a witch<br /> Show you real me geombulgeojineun bit<br /> Gangnyeolhage banjjangnyeo glittery things<br /> Impurities show you my impurities<br /> <br /> Jiteojineun yongmangeun pitbit<br /> Kkeuteul al su eomneun nae wishes<br /> Areumdawo nan with my scratches<br /> Just because it&#39;s what I am<br /> <br /> Siryeon sogeseo keojin power<br /> Geomnaeji ana deopchin shadow<br /> Da irwo nae desire<br /> Just because it&#39;s what I am<br /> Can you see huh?<br /> <br /> Tteoreojin han bangul drip<br /> Tumyeonghan nae ane seokkyeo deulji<br /> Amureochi aneun deut keep on moving<br /> Impurities show you my impurities<br /> <br /> Yoksimnae deo like a witch<br /> Show you real me geombulgeojineun bit<br /> Gangnyeolhage banjjangnyeo glittery things<br /> Impurities show you my impurities</p> "
+	},
+	{
+      "id": 9,
+      "name_category": "ANTIFRAGILE",
+      "title": "No Celestial",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be",
+      "link_mp3": "https://kangmediadev.com/kangmedia/Le%20Sserafim%2fANTIFRAGILE%2f04%20No%20Celestial.mp3",
+      "lyrics": "<p>Cheonsa gateun wanbyeokameun bye<br /> Teure bakin fantasy<br /> Balchikage sijakae nae fight<br /> Ruleeun pillyo eopjanni owww!<br /> <br /> Fake wings<br /> Nae soneuro tear off<br /> Time&#39;s up<br /> Du bari danneun sungan<br /> <br /> Just wanna live a real life<br /> Soljikan nae moksorireul deureojwo<br /> Ain&#39;t no fear nan i sungan now<br /> Tteoreojyeo down to earth<br /> <br /> Woo I&#39;m no freakin&#39; angel<br /> I&#39;m no freakin&#39; goddess<br /> Nan nail ppuniya<br /> Hold me tight<br /> Eojireoun sesang kkwak jabajwo hangsang<br /> Because you&#39;re by my side<br /> <br /> Meotdaero deonjyeodaeneun sikkeureoun yaegideul<br /> Geonjil ge eomne han gwiro heullyeo<br /> Soranhan sesang soge nae moksorin volume up<br /> I&#39;m sick and tired I&#39;m so so done<br /> I&#39;m sick and tired but not alone<br /> <br /> Fake wings<br /> Nae soneuro tear off<br /> Time&#39;s up<br /> Du bari danneun sungan<br /> <br /> Just wanna live a real life<br /> Soljikan nae moksorireul deureojwo<br /> Ain&#39;t no fear nan i sungan now<br /> Tteoreojyeo down to earth<br /> <br /> Woo I&#39;m no freakin&#39; angel<br /> I&#39;m no freakin&#39; goddess<br /> Nan nail ppuniya<br /> Hold me tight<br /> Eojireoun sesang kkwak jabajwo hangsang<br /> Because you&#39;re by my side<br /> <br /> I I I I I I&#39;m not afraid<br /> Ah ah ah yeah (down to earth)<br /> I I I I I I&#39;m not afraid<br /> Ah ah ah yeah (down to earth)<br /> <br /> Just wanna show you everything<br /> Eonjena inneun geudaero mideojwo<br /> Ain&#39;t no fear nan i sungan now<br /> Tteoreojyeo down to earth<br /> <br /> Woo I&#39;m no freakin&#39; angel<br /> I&#39;m no freakin&#39; goddess<br /> Nan nail ppuniya<br /> Hold me tight<br /> Eojireoun sesang kkwak jabajwo hangsang<br /> Because you&#39;re by my side</p> "
+	},
+	{
+      "id": 10,
+      "name_category": "ANTIFRAGILE",
+      "title": "Good Parts (when the quality is bad but I am)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be",
+      "link_mp3": "https://kangmediadev.com/kangmedia/Le%20Sserafim%2fANTIFRAGILE%2f05%20Good%20Parts%20.mp3",
+      "lyrics": "<p>I just wanna love myself nan<br /> Joeul ttaedo nappeul ttaedo<br /> Love my weakness<br /> Hwaryeohaetdeon gidaewaneun dalli waenji bolpumeopda haedo<br /> Find the good parts the good parts<br /> <br /> Yalgujeun phone hwamyeon wiro<br /> Aekkujeun nae songarangman<br /> Tik tik oh my gibuneun falling down<br /> Pic of mine zoom in out pretend I&#39;m fine<br /> <br /> I just wanna love myself nan<br /> Joeul ttaedo nappeul ttaedo<br /> Love my weakness<br /> Hwaryeohaetdeon gidaewaneun dalli waenji bolpumeopda haedo<br /> Find the good parts the good parts<br /> <br /> Ooh good good ooh good good<br /> Ooh silsuhaedo joa find the good parts<br /> Ooh good good ooh good good<br /> Ooh idaerodo joa find the good parts<br /> <br /> Modeun ge so blurry heona baraen polaroid<br /> Geuge ttaeroneun better than the 4K cam<br /> Heurithan nae mameul areumdapge hae<br /> <br /> I just wanna love myself nan<br /> Joeul ttaedo nappeul ttaedo<br /> Love my weakness<br /> Hwaryeohaetdeon gidaewaneun dalli waenji bolpumeopda haedo<br /> Find the good parts the good parts<br /> <br /> Like a film aryeonhi nameul<br /> Oneureul wanna share<br /> Jom heurithan na<br /> Changpihan reels maju bol courage<br /> Geugeomyeon chungbunhae<br /> <br /> &#39;Cause I don&#39;t wanna blame my weakness<br /> Inneun geudaeroui nareul saranghallae<br /> Hwaryeohaetdeon gidaewaneun dalli waenji bolpumeopda haedo<br /> Love my bad parts my bad parts<br /> <br /> Ooh good good ooh good good<br /> Ooh silsuhaedo joa find the good parts<br /> Ooh good good ooh good good<br /> Ooh idaerodo joa find the good parts<br /> <br /> Good good ooh good good<br /> Ooh silsuhaedo joa find the good parts</p> "
+	},
+	
+	
+	
+	
+	
+	{
+      "id": 1000,
+      "name_category": "Singles",
+      "title": "Blue Flame (Japanese Ver.)",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9",
+      "link_mp3": "https://kangmediadev.com/kangmedia/Le%20Sserafim%2fSingles%2f02%20Blue%20Flame%20-%20Japanese%20ver.mp3",
+      "lyrics": "<p>I&#39;ll like it I&#39;ll like it like that<br /> <br /> I&#39;m feeling something Madou kurai<br /> Megakuramu hodo no hikari<br /> Kiri no naka e michibiki<br /> Even hibana yori atsui blue<br /> <br /> Yurarito odotte wa kieru no<br /> I&#39;ll like it I&#39;ll like it like that<br /> Aoi honō karei ni hikatte ku wa<br /> <br /> Yakedo suru hodo moeru no motto<br /> Kyōkai-sen koe hirogaru unknown hate made<br /> Taikutsudatta hi mo nandaka kirei yo<br /> Chakka shitara tomerarenai no my desire<br /> <br /> Will-O&#39; The-Wisp babe<br /> Oh baby It&#39;s blue flame<br /> Will-O&#39; The-Wisp babe<br /> That that that is faction<br /> <br /> Will-O&#39; The-Wisp babe<br /> Oh baby It&#39;s blue flame<br /> Will-O&#39; The-Wisp babe<br /> That that that is faction<br /> <br /> Unknown<br /> Osore ni kakureta vu~ēru<br /> Kurayami nukedashi ima glow<br /> Kanata ni nani ga atte mo<br /> Aoku tokimeku no sa<br /> <br /> Yurarito odotte wa kieru no<br /> I&#39;ll like it I&#39;ll like it like that<br /> Aoi honō karei ni hikatte ku wa<br /> <br /> Yakedo suru hodo moeru no motto<br /> Kyōkai-sen koe hirogaru unknown hate made<br /> Taikutsudatta hi mo nandaka kirei yo<br /> Chakka shitara tomerarenai no my desire<br /> <br /> Will-O&#39; The-Wisp babe<br /> Oh baby It&#39;s blue flame<br /> Will-O&#39; The-Wisp babe<br /> That that that is faction<br /> <br /> Will-O&#39; The-Wisp babe<br /> Oh baby It&#39;s blue flame<br /> Will-O&#39; The-Wisp babe<br /> That that that is faction<br /> <br /> Kuzureru limit kibun wa so thrilling<br /> Deeply hairikonde kuru<br /> Saisho no shunkan kara<br /> Fushigina hikari ni<br /> Suikoma re now I&#39;m burning<br /> Mabushiku shine<br /> <br /> Yakedo suru hodo moeru no motto<br /> Kyōkai-sen koe hirogaru unknown hate made<br /> Taikutsudatta hi mo nandaka kirei yo<br /> Chakka shitara tomerarenai no my desire<br /> <br /> Will-O&#39; The-Wisp babe<br /> Oh baby It&#39;s blue flame<br /> Will-O&#39; The-Wisp babe<br /> That that that is faction<br /> <br /> Will-O&#39; The-Wisp babe<br /> Oh baby It&#39;s blue flame<br /> Will-O&#39; The-Wisp babe<br /> That that that is faction</p> "
+	},
+	{
+      "id": 1001,
+      "name_category": "Singles",
+      "title": "FEARLESS (Japanese Ver.)",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9",
+      "link_mp3": "https://kangmediadev.com/kangmedia/Le%20Sserafim%2fSingles%2f01%20FEARLESS%20-%20Japanese%20ver.mp3",
+      "lyrics": "<p>Bam<br /> Ba-ba-ba-bam-bam<br /> Ba-ba-ba-bam-bam<br /> Ba-ba-ba-bam-bam<br /> Bam<br /> Ba-ba-ba-bam-bam<br /> Ba-ba-ba-bam-bam<br /> Ba-ba-ba-bam-bam<br /> <br /> Ano chōjō de todoku yo<br /> Kanjiru no answer<br /> Kekkan no naka sawagu new wave<br /> Kyodaina passion<br /> Kyōmi nai no kako ī<br /> Daremoga shitte iru troublemo, huh<br /> I&#39;m fearless, a new bitch<br /> New crazy, agaru, next one<br /> <br /> (Woah-oh-oh-oh-oh) yukō, highway, highway<br /> (Woah-oh-oh-oh-oh) saigo no ketsumatsu e<br /> Kizu sae mo watashinaraba<br /> (Woah-oh-oh-oh-oh) osorenai wa, nai wa<br /> <br /> What you lookin&rsquo; at? What you, what you lookin&#39; at?<br /> What you lookin&#39; at? What you, what you lookin&rsquo; at?<br /> What you lookin&#39; at? What you, what you lookin&#39; at?<br /> Mm-mm-mm-mm, I&#39;m fearless, huh<br /> You should get away, get a, get a, get away<br /> Kizutsukanai, kizu, kizutsukanai<br /> You should get away, get a, get a, get away<br /> Mm-mm-mm-mm, I&#39;m fearless, huh<br /> <br /> Bam<br /> Ba-ba-ba-bam-bam<br /> Ba-ba-ba-bam-bam<br /> Ba-ba-ba-bam-bam<br /> Bam<br /> Ba-ba-ba-bam-bam<br /> Ba-ba-ba-bam-bam<br /> Ba-ba-ba-bam-bam<br /> <br /> Yokubō o kakusete hen&#39;na kotoba ne<br /> Kenkyona engi mo koe ijō yō ne<br /> Chō forever win gimi, ayy<br /> Number one mune moto ni, ayy<br /> Watashi ni hizamazuki, ayy<br /> Take the world, break it down, break you down, down<br /> <br /> (Woah-oh-oh-oh-oh) yukō, highway, highway<br /> (Woah-oh-oh-oh-oh) saigo no ketsumatsu e<br /> Kizu sae mo watashinaraba<br /> (Woah-oh-oh-oh-oh) osorenai wa, nai wa<br /> <br /> What you lookin&#39; at? What you, what you lookin&#39; at?<br /> What you lookin&#39; at? What you, what you lookin&rsquo; at?<br /> What you lookin&rsquo; at? What you, what you lookin&#39; at?<br /> Mm-mm-mm-mm, I&rsquo;m fearless, huh<br /> You should get away, get a, get a, get away<br /> Kizutsukanai, kizu, kizutsukanai<br /> You should get away, get a, get a, get away<br /> Mm-mm-mm-mm, I&#39;m fearless, huh<br /> <br /> Bam<br /> Ba-ba-ba-bam-bam<br /> Ba-ba-ba-bam-bam<br /> Ba-ba-ba-bam-bam<br /> Bam<br /> Ba-ba-ba-bam-bam<br /> Ba-ba-ba-bam<br /> Mm-mm-mm-mm, I&#39;m fearless, huh<br /> <br /> (Bam, ba-ba-ba-bam-bam)<br /> 2-do nai haiboku<br /> (Ba-ba-ba-bam-bam, ba-ba-ba-bam-bam)<br /> Junbi shita payback<br /> (Bam, ba-ba-ba-bam-bam)<br /> Bring it, watashi ni<br /> (Ba-ba-ba-bam)<br /> Mm-mm-mm-mm, I&#39;m fearless, huh<br /> <br /> What you lookin&rsquo; at? What you, what you lookin&#39; at?<br /> What you lookin&#39; at? What you, what you lookin&#39; at?<br /> What you lookin&#39; at? What you, what you lookin&#39; at?<br /> Mm-mm-mm-mm, I&#39;m fearless, huh<br /> You should get away, get a, get a, get away<br /> Kizutsukanai, kizu, kizutsukanai<br /> You should get away, get a, get a, get away<br /> Mm-mm-mm-mm, I&#39;m fearless, huh</p> "
+	},
+	{
+      "id": 1002,
+      "name_category": "Singles",
+      "title": "Choices",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9",
+      "link_mp3": "https://kangmediadev.com/kangmedia/Le%20Sserafim%2fSingles%2f03%20Choices.mp3",
+      "lyrics": "<p>A, B, or A, B, or A-B-A-B-A-B-A-B, what?<br /> A, B, or A, B, or A-B-A-B-A-B-A-B, what?<br /> <br /> Are mo kore mo shikō ￫ sentaku no renzoku de<br /> Nanika o suru ni mosou money, money<br /> Sore mo genjitsu ne<br /> Sutekina life = dare no eyes mo kinishinai<br /> Kagayaku every breath subete misete<br /> Sōzō shita koto wa kanau n datte, oh-woah<br /> <br /> Sekai ga kawatte mo<br /> Yuruginaku kachiaru-mono<br /> There&#39;s gotta be more to life<br /> Miushinawanai yō ni ayunde ikou<br /> <br /> I make my choices<br /> Hontōni hoshī mono wa<br /> Kantan ni wa kaenai<br /> What you want? mae o muite<br /> &quot;Happy&quot; is all around (Ah)<br /> Choices erabidasu no my own way<br /> <br /> A, B, or A, B, or A-B-A-B-A-B-A-B, what?<br /> A, B, or A, B, or A-B-A-B-A-B-A-B, what?<br /> <br /> Suwaipudaun sureba tsugitsugi to<br /> Meatarashī gadgets hayari no clothes<br /> Not gonna diss your hustle dakedo<br /> Ichiban daijina heart and soul<br /> Kokoro ni aru kagayakinara<br /> Sabitsuku koto nai my treasure<br /> Darenimo ubaenai forever<br /> <br /> Don&#39;na kon&#39;nan no naka ni mo<br /> Kanarazu aru pojitibu o<br /> I will always look for the good<br /> Minogasanai yō ni susunde ikukara<br /> <br /> I make my choices<br /> Mayou hi ga atte mo<br /> Kesshite hitorijanai<br /> What I want don&#39;na answer<br /> Dashita to shite mo (Ah)<br /> Choices watashirashiku ikukara<br /> <br /> Zendaimimon? Kamawanai<br /> Seorī toka betsuni I don&#39;t give a damn<br /> Tan&#39;ni wanna be me daredatte wanna be free so<br /> Shiawase ni naru sekinin wa mine (Uh)<br /> So A or B? hoshī no wa nan honey<br /> Mune ni te o ate<br /> So A or B? hoshī no wa nan honey<br /> Yuruginai kachi aru mono o<br /> <br /> I make my choices (Ooh, yeah-eh)<br /> Hontōni hoshī mono wa (Ooh-woah, oh)<br /> Kantan ni wa kaenai<br /> What you want? mae o muite (Ah)<br /> &quot;Happy&quot; is all around (Ah)<br /> Choices (Ooh-hoo-hoo) erabidasu no my own way<br /> <br /> A, B, or A, B, or A-B-A-B-A-B-A-B, what?<br /> A-B-A-B, what?<br /> A, B, or A, B, or A-B-A-B-A-B-A-B, what?<br /> <br /> So many choices<br /> A, B, or A, B, or A-B-A-B-A-B-A-B, what?<br /> A, B, or A, B, or A-B-A-B-A-B-A-B, what?<br /> So many choices</p> "
+	},
+	{
+      "id": 1003,
+      "name_category": "Singles",
+      "title": "I ≠ DOLL",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9",
+      "link_mp3": "https://kangmediadev.com/kangmedia/Le%20Sserafim%2fSingles%2f01%20I%20%e2%89%a0%20DOLL.mp3",
+      "lyrics": "<p>Nan mwol ibeodo joeda ipin osiramyeo songarakjil<br /> Naega baeteun maldo oeun daebonimyeon i mal hagenni?<br /> Eoseo chaenggyeo imiji, sijak jeonedo imi jin<br /> I geimeun wae iri eoryeowo, oh-oh-oh-oh, oh<br /> <br /> &#39;Cause if I had a choice<br /> I&#39;d put my opinions first<br /> Aesseo teujip jabado yeoyuropge I go<br /> <br /> Nae meotdaero haneun meot<br /> Musima my voice<br /> Nae moksori volume up<br /> Idol doesn&#39;t mean your doll to fuck with<br /> <br /> Nan ippeuni eolgulbakke mot hae<br /> Ssagaji eopseo boigo sipgido hae<br /> I&#39;m more than just your pretty face<br /> Neon moreuji eojeneun inhyeong gatgo<br /> Oneureun inyeonira hae<br /> When all they see is vanity<br /> They pick apart my body<br /> And throw the rest away<br /> <br /> Go idolize your idle life, then criticize me<br /> Eochapi ilsang banbogil tende eolmana jaemiitgenni?<br /> &quot;Jjyeonne&quot; &quot;an ppaego mwo hae?&quot; &quot;boyeojineun jigeobinde&quot;<br /> Naemyeoneun gyeolguk huimihan dwitjeoni dwae, yeah, yeah<br /> <br /> Hansunganeuro bakjehaebeorin the headlines<br /> Geudaji eopdeon gwansimeul wonhae on my mind<br /> They love when I&#39;m a mess, damsel in distress<br /> Gateun saraminde<br /> <br /> Nae meotdaero haneun meot<br /> Musima my voice<br /> Nae moksori volume up<br /> Idol doesn&#39;t mean your doll to fuck with<br /> <br /> Nan ippeuni eolgulbakke mot hae<br /> Ssagaji eopseo boigo sipgido hae<br /> I&#39;m more than just your pretty face<br /> Neon moreuji eojeneun inhyeong gatgo<br /> Oneureun inyeonira hae<br /> When all they see is vanity<br /> They pick apart my body<br /> And throw the rest away</p> "
+	},
+	{
+      "id": 1004,
+      "name_category": "Singles",
+      "title": "Raise y_our glass",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb6199c3c2f414880e2b9077a9",
+      "link_mp3": "https://kangmediadev.com/kangmedia/Le%20Sserafim%2fSingles%2f01%20Raise%20y_our%20glass.mp3",
+      "lyrics": "<p>It&#39;s kinda shitty, isn&#39;t it?<br /> Not the way we pictured it<br /> Feels like an existential crisis<br /> Or am I being dramatic?<br /> I wish the world would shut its mouth<br /> Give me space to fuckin&#39; sort it out<br /> Like, I&#39;m fine, just leave me alone<br /> I&#39;m great on my own<br /> <br /> But if I&#39;m being honest<br /> I&#39;d hate to waste us on this<br /> But I truly hope they find their own peace of mind<br /> <br /> I don&#39;t know what I&#39;d be doin&#39; without you<br /> You love who I am<br /> &#39;Cause I don&#39;t care as long as I&#39;m with you<br /> I&#39;ll reach for your hand<br /> In this ugly world where the color is fading<br /> You&#39;re beautiful in every color and shade, I<br /> Don&#39;t know if you drink<br /> But raise a glass to the past in the story of us<br /> <br /> A little bit of complication never hurt my body, I know<br /> But it&#39;s different when the target is your mind<br /> And everybody&#39;s talking shit, no bigger hypocrite, it&#39;s fine though<br /> My sisters and I, we sympathize<br /> <br /> But if I&#39;m being honest<br /> Never thought that I would have this<br /> Back when all I needed was people who will stay<br /> <br /> I don&#39;t know what I&#39;d be doin&#39; without you<br /> You love who I am<br /> &#39;Cause I don&#39;t care as long as I&#39;m with you<br /> I&#39;ll reach for your hand<br /> In this ugly world where the color is fading<br /> You&#39;re beautiful in every color and shade, I<br /> Don&#39;t know if you drink<br /> But raise a glass &#39;cause<br /> <br /> It took a while to get here<br /> I&#39;m fearless, but I still fear<br /> You&#39;ll disappear &#39;cause I couldn&#39;t be<br /> The person that you need<br /> I won&#39;t ever leave<br /> <br /> I don&#39;t know what I&#39;d be doin&#39; without you<br /> You love who I am<br /> &#39;Cause I don&#39;t care as long as I&#39;m with you<br /> I&#39;ll reach for your hand<br /> In this ugly world where the color is fading<br /> You&#39;re beautiful in every color and shade, I, I<br /> In this ugly world where the color is fading<br /> You&#39;re beautiful in every color and shade, I<br /> Don&#39;t know if you drink<br /> But raise a glass<br /> To the story of us</p> "
+	}
 	
 	
   ]
